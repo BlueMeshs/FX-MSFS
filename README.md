@@ -7,4 +7,8 @@ Each aircraft are differents so your must probably ajust the node graph in MSFS
 
 Enjoy :D
 
+Effects videos:
+
+#1 Water Dump: https://youtu.be/2C3daN36KXk
+
 Jimmy, BlueMesh
