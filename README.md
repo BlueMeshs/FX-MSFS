@@ -10,5 +10,6 @@ Enjoy :D
 Effects videos:
 
 #1 Water Dump: https://youtu.be/2C3daN36KXk
+#2 Aerobatic Smoke: https://www.youtube.com/watch?v=w5Li2SBL4f8
 
 Jimmy, BlueMesh
