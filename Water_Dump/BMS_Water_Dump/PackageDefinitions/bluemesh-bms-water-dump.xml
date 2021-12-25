@@ -1,0 +1,39 @@
+<AssetPackage Name="bluemesh-bms-water-dump" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>BMS_Water_Dump</Title>
+		<Manufacturer/>
+		<Creator>Jimmy_BlueMesh</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="BMS_WATER_DUMP_MATERIAL">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\MaterialLibs\BMS_WATER_DUMP_MATERIAL\</AssetDir>
+			<OutputDir>MaterialLibs\BMS_WATER_DUMP_MATERIAL\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\bluemesh-bms-water-dump\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\bluemesh-bms-water-dump</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="VisualEffectLib">
+			<Type>VisualEffectLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\VisualEffectLibs\bluemesh\bms-water-dump\</AssetDir>
+			<OutputDir>VisualEffectLibs\bluemesh\bms-water-dump\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
