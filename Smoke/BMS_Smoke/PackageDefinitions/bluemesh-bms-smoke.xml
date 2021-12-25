@@ -1,0 +1,39 @@
+<AssetPackage Name="bluemesh-bms-smoke" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>BMS_Smoke</Title>
+		<Manufacturer/>
+		<Creator>Jimmy_BlueMesh</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="BMS_Smoke_MaterialLib">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\MaterialLibs\BMS_Smoke_MaterialLib\</AssetDir>
+			<OutputDir>MaterialLibs\BMS_Smoke_MaterialLib\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\bluemesh-bms-smoke\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\bluemesh-bms-smoke</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="VisualEffectLib">
+			<Type>VisualEffectLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\VisualEffectLibs\bluemesh\bms-smoke\</AssetDir>
+			<OutputDir>VisualEffectLibs\bluemesh\bms-smoke\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

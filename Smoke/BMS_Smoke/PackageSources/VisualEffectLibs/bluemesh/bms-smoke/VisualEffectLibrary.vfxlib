@@ -1,0 +1,5 @@
+<VisualEffectLibrary Version="1.0.0">
+	<VisualEffect File="BMS_Smoke"/>
+	<VisualEffect File="BMS_Smoke_Ribbon"/>
+</VisualEffectLibrary>
+
