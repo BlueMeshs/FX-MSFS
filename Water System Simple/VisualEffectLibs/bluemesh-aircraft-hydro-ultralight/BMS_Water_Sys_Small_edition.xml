@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document
+        Type="EditionInfo"
+        version="1,0"
+        id="BMS_Water_Sys_Small_edition">
+    <Descr>This file contains useful additional properties for edition purpose.</Descr>
+    <SimEdition.EditionInfo RelatedInstanceId="{143A0938-2430-4C20-ACAE-5FDD24FE212C}">
+        <NodePosition>372.000,-48.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{EDAF93B9-F3D0-4076-8CE8-1E47FEEDA30B}">
+        <NodePosition>273.000,40.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{A4801BE2-D9FC-40E5-AD08-1F724FDC94FC}">
+        <NodePosition>312.000,376.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{CA13EF78-1DA4-4AE9-9B9D-1FBE7A00E1BA}">
+        <NodePosition>394.000,544.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{7E18960B-805B-4CEA-9594-62448CD04C3A}">
+        <NodePosition>312.000,628.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{5A5F5797-B055-4F68-836A-B143EA3F463D}">
+        <NodePosition>-8.000,440.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{510950A7-7D1A-4CC9-8F0E-6BD860738B57}">
+        <NodePosition>40.000,664.000</NodePosition>
+    </SimEdition.EditionInfo>
+</SimBase.Document>

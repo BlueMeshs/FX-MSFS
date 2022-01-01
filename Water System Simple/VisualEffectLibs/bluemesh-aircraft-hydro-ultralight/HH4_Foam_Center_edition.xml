@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document
+        Type="EditionInfo"
+        version="1,0"
+        id="HH4_Foam_Center_edition">
+    <Descr>This file contains useful additional properties for edition purpose.</Descr>
+    <SimEdition.EditionInfo RelatedInstanceId="{7CA16EA9-7CBA-43DF-9F82-0F534DEBA392}">
+        <NodePosition>-344.000,472.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{C0612D6E-ABDA-4ECB-AD6E-046225FBEF76}">
+        <NodePosition>-1320.000,132.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{48A981C6-C2BD-494A-84D9-0F829262E40C}">
+        <NodePosition>-40.000,864.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{E5FD6211-36A6-4B6B-831B-33209486FA1F}">
+        <NodePosition>-427.000,912.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{69D5D3D8-4E03-4B1E-A9FA-6CC8D9746FF6}">
+        <NodePosition>-989.000,924.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{F0CA7231-64C7-437B-90F3-72949B8A8BB7}">
+        <NodePosition>-267.000,192.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{57B859B9-E283-4256-BA42-F7B4E4EC29F9}">
+        <NodePosition>-828.000,136.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{4293F1D4-9C08-4AB7-8843-6C31DF8BB73C}">
+        <NodePosition>394.000,744.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{E9BB1C32-DA76-487C-AA1F-3BA87E75277B}">
+        <NodePosition>248.000,552.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{A32481AC-C9A1-4CF6-8F8D-F184D39B0525}">
+        <NodePosition>241.000,164.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{71000569-0701-49D1-82DC-B7C2DA7B347A}">
+        <NodePosition>340.000,36.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{DFEAA434-9AAD-4914-A531-DFC305F647AF}">
+        <NodePosition>342.000,852.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{B0D93624-17D6-4C81-A7C0-497D20092F46}">
+        <NodePosition>-228.000,624.000</NodePosition>
+    </SimEdition.EditionInfo>
+</SimBase.Document>
