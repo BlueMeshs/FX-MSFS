@@ -1,7 +1,0 @@
-<VisualEffectLibrary Version="1.0.0">
-	<VisualEffect File="BMS_WSS_Front_Skid_L"/>
-	<VisualEffect File="BMS_WSS_FOAM"/>
-	<VisualEffect File="BMS_WSS_Front_Skid_R"/>
-	<VisualEffect File="BMS_WSS_Water_Engine_Wash"/>
-</VisualEffectLibrary>
-
