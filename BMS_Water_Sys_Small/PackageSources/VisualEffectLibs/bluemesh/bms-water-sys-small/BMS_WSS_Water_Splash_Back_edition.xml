@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document
+        Type="EditionInfo"
+        version="1,0"
+        id="BMS_WSS_Water_Splash_Back_edition">
+    <Descr>This file contains useful additional properties for edition purpose.</Descr>
+    <SimEdition.EditionInfo RelatedInstanceId="{3E3DBACE-8BB7-4DD9-B2FF-425E4044E33E}">
+        <NodePosition>372.000,-48.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{E818C505-A4DF-4927-A64C-393F6483CB04}">
+        <NodePosition>273.000,40.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{A4766796-8EBE-45F0-9303-F744D237F4AA}">
+        <NodePosition>312.000,376.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{80275545-06AB-44F4-939A-3027C2FF48E5}">
+        <NodePosition>273.000,524.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{E8F5A261-A7AD-4537-93A4-550B65117D08}">
+        <NodePosition>302.000,708.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{3F94C83A-0674-4497-BEA3-F0CE09403723}">
+        <NodePosition>-187.000,756.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{931AE472-F63C-4172-A181-90C678ADFB21}">
+        <NodePosition>-1112.000,772.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{C1635794-660D-4842-9EE9-2BB3D23C47A8}">
+        <NodePosition>-619.000,808.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{16EDC7A8-94EE-44F4-BDD5-C127F48B2FFE}">
+        <NodePosition>-614.000,180.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{AC601189-D509-433A-BFF3-5BB102CE6E34}">
+        <NodePosition>-1152.000,258.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{CBAD82D4-99D9-49BD-AF20-BD8FBCA4980B}">
+        <NodePosition>-1112.000,468.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{21FE9AD0-14B5-4D4C-A4EF-70F3BE811CB2}">
+        <NodePosition>-648.000,472.000</NodePosition>
+    </SimEdition.EditionInfo>
+    <SimEdition.EditionInfo RelatedInstanceId="{3124C07B-160D-4540-B1F4-AA7DA37C587A}">
+        <NodePosition>-248.000,496.000</NodePosition>
+    </SimEdition.EditionInfo>
+</SimBase.Document>

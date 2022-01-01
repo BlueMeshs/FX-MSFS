@@ -1,0 +1,39 @@
+<AssetPackage Name="bluemesh-bms-water-sys-small" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>BMS_Water_Sys_Small</Title>
+		<Manufacturer/>
+		<Creator>Jimmy_BlueMesh</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="BMS_Water_Sys_Small_MaterialLib">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\MaterialLibs\BMS_Water_Sys_Small_MaterialLib\</AssetDir>
+			<OutputDir>MaterialLibs\BMS_Water_Sys_Small_MaterialLib\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\bluemesh-bms-water-sys-small\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\bluemesh-bms-water-sys-small</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="VisualEffectLib">
+			<Type>VisualEffectLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\VisualEffectLibs\bluemesh\bms-water-sys-small\</AssetDir>
+			<OutputDir>VisualEffectLibs\bluemesh\bms-water-sys-small\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
